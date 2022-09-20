@@ -12,3 +12,6 @@ Creación de colores para fondo de nuestra ventana
 
 ## 03-Rects
 Creación y visualización de rectángulos
+
+## 04-Objetos
+Creación y visualización de objeto varios
