@@ -8,14 +8,9 @@ width, height = 400, 500
 surface = pygame.display.set_mode((width, height))
 pygame.display.set_caption("Hola PyGame")
 
-#Creacion de color RGB con pygame
 red = pygame.Color(255, 0, 0)
-green = pygame.Color(0, 255, 0)
-blue = pygame.Color(0, 0, 255)
 white = pygame.Color(255, 255, 255)
 
-#Creacion de color RGB con un array timple
-my_color = (200, 90, 130)
 
 while True:
 
@@ -23,6 +18,10 @@ while True:
         if event.type == pygame.QUIT:
             pygame.quit()
             sys.exit()
+    # Tiempo transcurrido desde que la función pygame.init() fue ejecutada en milisegundos
+    time = pygame.time.get_ticks()
+    time = time//1000  # Convertimos a segundos
+    print(time)
 
-    surface.fill(my_color) #Añadimos un color de fondo a la ventana
-    pygame.display.update() #Para que se actualicen los cambios necesitamos realizar el update
+    surface.fill(white)
+    pygame.display.update()
