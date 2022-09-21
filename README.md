@@ -39,3 +39,6 @@ Poner una musica de fondo
 
 ## Modulo-2
 Iniciación a los eventos y colisiones
+
+### 01-Teclado
+Capturar eventos del teclado.
