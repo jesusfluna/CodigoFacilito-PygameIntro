@@ -42,3 +42,30 @@ Iniciación a los eventos y colisiones
 
 ### 01-Teclado
 Capturar eventos del teclado.
+
+### 02-Pressed
+Detección de cuando una tecla está presionada
+
+### 03-MouseEvent
+Detección cuando un botón o la rueda del mouse es activada
+
+### 04-MousePos
+Captura de la posición del puntero del mouse en la ventana
+
+### 05-MoverImg
+Mover una imagen por la ventana con el teclado
+
+### 06-MoverImgMouse
+Mover una imagen por la ventana con el puntero del ratón
+
+### 07-Colisiones
+Detección de colisiones entre dos rectángulos
+
+### 08-Sonidos
+Reproducir un sonido al colisionar dos elementos
+
+### 09-ColisionesCirculo
+Detección de colisión de dos círculos
+
+### 10-Mascaras
+Creación de máscaras para la detección de colisiones de imágenes con fondos transparentes.
