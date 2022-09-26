@@ -69,3 +69,6 @@ Detección de colisión de dos círculos
 
 ### 10-Mascaras
 Creación de máscaras para la detección de colisiones de imágenes con fondos transparentes.
+
+## Modulo-3
+Juego completo de plataformas haciendo uso de los apartados de los modulos anteriores.
